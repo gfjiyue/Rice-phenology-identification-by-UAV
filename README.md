@@ -180,9 +180,3 @@ AB123_230415.tif
 Supported image extensions include `.jpg`, `.jpeg`, `.png`, `.tif`, `.tiff`, and `.bmp`.
 
 
-
-## Prediction Examples
-
-Prediction examples will be added here.
-
-
