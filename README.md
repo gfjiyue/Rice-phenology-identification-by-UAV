@@ -179,9 +179,6 @@ AB123_230415.tif
 
 Supported image extensions include `.jpg`, `.jpeg`, `.png`, `.tif`, `.tiff`, and `.bmp`.
 
-Dataset and weight is loaded automatically from Hugging Face:
-
-VMAE_MODEL_DIR = "Helen0808/Phenology_Identification"
 
 
 ## Prediction Examples
