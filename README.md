@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Dual-Resolution Temporal Crop Growth Stage Classification
 
 This repository implements a PyTorch-based framework for crop growth stage classification using dual-resolution temporal remote sensing images. The model takes `20m` (MR) images as the temporal anchor sequence and matches nearby `4m` (HR) images when available. The two image streams are fused with a missing-aware gated module and then modeled with an LSTM for frame-level growth stage prediction.
@@ -187,3 +188,9 @@ VMAE_MODEL_DIR = "Helen0808/Phenology_Identification"
 ## Prediction Examples
 
 Prediction examples will be added here.
+=======
+This repository provides the code implementation and example data for the paper:
+
+Multi-Scale Spatial-Temporal Remote Sensing Fusion for Phenology Identification in Rice Germplasm Resources
+Huimin Wang, Wei Guo, Yue Mu*, Yang Zhang, Haozhou Wang, Yandong Yang, Hu Xu, Yanfeng Ding, Shirong Zhou, Ganghua Li, Seishi Ninomiya
+>>>>>>> 1812343856cd08f1544bbb850f08b67b4ea0ae8f
